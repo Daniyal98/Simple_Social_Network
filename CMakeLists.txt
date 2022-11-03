@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.2.0)
+project(Simple_Social_Network)
+add_executable(simple_social_network Simple_Social_Network.cpp)
